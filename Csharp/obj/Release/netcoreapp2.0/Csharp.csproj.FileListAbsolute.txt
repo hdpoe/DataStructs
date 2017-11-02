@@ -1,0 +1,10 @@
+/home/hpoe/School/DataStructs/ImplementingDataStructs/Csharp/bin/Release/netcoreapp2.0/Csharp.deps.json
+/home/hpoe/School/DataStructs/ImplementingDataStructs/Csharp/bin/Release/netcoreapp2.0/Csharp.runtimeconfig.json
+/home/hpoe/School/DataStructs/ImplementingDataStructs/Csharp/bin/Release/netcoreapp2.0/Csharp.runtimeconfig.dev.json
+/home/hpoe/School/DataStructs/ImplementingDataStructs/Csharp/bin/Release/netcoreapp2.0/Csharp.dll
+/home/hpoe/School/DataStructs/ImplementingDataStructs/Csharp/bin/Release/netcoreapp2.0/Csharp.pdb
+/home/hpoe/School/DataStructs/ImplementingDataStructs/Csharp/obj/Release/netcoreapp2.0/Csharp.csproj.CoreCompileInputs.cache
+/home/hpoe/School/DataStructs/ImplementingDataStructs/Csharp/obj/Release/netcoreapp2.0/Csharp.AssemblyInfoInputs.cache
+/home/hpoe/School/DataStructs/ImplementingDataStructs/Csharp/obj/Release/netcoreapp2.0/Csharp.AssemblyInfo.cs
+/home/hpoe/School/DataStructs/ImplementingDataStructs/Csharp/obj/Release/netcoreapp2.0/Csharp.dll
+/home/hpoe/School/DataStructs/ImplementingDataStructs/Csharp/obj/Release/netcoreapp2.0/Csharp.pdb

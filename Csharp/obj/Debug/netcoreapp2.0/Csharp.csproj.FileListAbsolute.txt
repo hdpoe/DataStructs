@@ -8,3 +8,6 @@
 /home/hpoe/School/DataStructs/ImplementingDataStructs/Csharp/bin/Debug/netcoreapp2.0/Csharp.pdb
 /home/hpoe/School/DataStructs/ImplementingDataStructs/Csharp/obj/Debug/netcoreapp2.0/Csharp.dll
 /home/hpoe/School/DataStructs/ImplementingDataStructs/Csharp/obj/Debug/netcoreapp2.0/Csharp.pdb
+/home/hpoe/School/DataStructs/ImplementingDataStructs/Csharp/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/hpoe/School/DataStructs/ImplementingDataStructs/Csharp/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/home/hpoe/School/DataStructs/ImplementingDataStructs/Csharp/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
