@@ -1,6 +1,6 @@
-package hunters.ds;
+package datastructs;
 
-class BasicQueue<T> {
+class BasicQueue<T> implements QueueInterface<T> {
   private T[] queue; 
   private int tail;
   private int head;
@@ -35,5 +35,21 @@ class BasicQueue<T> {
   public T dequeue() {
     if(tail < head) { return null; }
     return  queue[tail--];
+  }
+
+  public boolean contains(T item) {
+  for(int i = head; i <= tail; i++) {
+      if(queue[i].equals(item)) {
+        return true;
+      }
+    }
+    return false;
+  }
+
+  public T access(int pos) {
+    if(head + pos > tail) {
+      return null;
+    }
+    return queue[head + pos];
   }
 }
